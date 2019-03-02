@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=T_no\ stn_name\ exptDate
+comment0.target=String\ check_board_date(String,\ String,\ String)
+comment1.params=T_no\ exptDate\ day2
+comment1.target=String\ te1(String,\ String,\ int)
+numComments=2

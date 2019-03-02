@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=T_no\ B_name\ D_name
+comment0.target=String\ ch_b_de(String,\ String,\ String)
+comment1.params=T_no\ stn_name
+comment1.target=String\ ch_stn(String,\ String)
+numComments=2
